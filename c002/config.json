@@ -1,0 +1,12 @@
+{
+    "server": {
+        "port": 11001,
+        "jwt_key": "secret213"
+    },
+    "db": {
+        "username": "darkomi",
+        "password": "Darkomil12345",
+        "host": "cluster0.eance.mongodb.net",
+        "dbname": "darkomi"
+    }
+}
